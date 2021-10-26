@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...app develpoment
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...dorothytetteh026@gmail.com
+- 📫 How to reach me ...
 
 <!---
 888d/888d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
